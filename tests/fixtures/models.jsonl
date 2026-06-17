@@ -1,0 +1,3 @@
+{"model_id":"cheap","cost":1,"latency":40,"family":"small","quality_prior":0.62}
+{"model_id":"mid","cost":3,"latency":90,"family":"medium","quality_prior":0.78}
+{"model_id":"smart","cost":8,"latency":180,"family":"large","quality_prior":0.92}
