@@ -1,5 +1,7 @@
 # Efficient LLM Router
 
+[한국어 README](README.ko.md)
+
 Local, open-source router for the SK Telecom Efficient LLM Routing Challenge.
 
 The router chooses which candidate model to call, or which already observed output to select, under three budget tiers:
